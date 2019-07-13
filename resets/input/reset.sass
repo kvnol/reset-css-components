@@ -1,0 +1,11 @@
+.reset-input
+  appearance: none
+	border: 0
+  outline: 0 // Estilizar o outline com box-shadow
+
+  &:not(:disabled):not(.disabled)
+    cursor: text
+
+  &:disabled,
+  &.disabled
+    cursor: default
