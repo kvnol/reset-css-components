@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/3299130/61169083-921d8e80-a52e-11e9-8884-51b3e5653242.png" />
 </p>
 
-#### Reset button
+### Reset button
 
 O **Reset Button** possui algumas configurações que dão uma melhor usabilidade para os botões de sua aplicação:
 
