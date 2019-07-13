@@ -11,7 +11,7 @@
 O **Reset Button** possui algumas configurações que dão uma melhor usabilidade para os botões de sua aplicação:
 
 - Não ficará com mais de uma linha;
-- Remove a decoração de links, caso seja uma tag `&lt;a&gt;`;
+- Remove a decoração de links, caso seja uma tag `<a>`;
 - Bloco habilitado, permitindo o controle de largura e altura;
 - Texto centralizado;
 - Outline padrão do browser removido\*;
