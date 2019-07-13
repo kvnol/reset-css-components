@@ -11,6 +11,7 @@ O **Reset Input** possui algumas configurações que dão uma melhor usabilidade
 - Sempre ficará com o cursor de texto (exceto quando estiver no estado `:disabled`);
 - Remove a aparência padrão e bordas, permitindo maior controle sobre o estilo do seu input;
 - Bloco habilitado, permitindo o controle de largura e altura;
+- O input sempre ficará com largura 100%, relativa ao pai, que deve ser um form-group;
 - Outline padrão do browser removido\*;
 
 ###### É importantíssimo o estado `:focus` ser estilizado em sua aplicação
