@@ -21,7 +21,7 @@ O **Reset CSS Components** nasceu da ideia de organizar num único local os rese
 
 - [x] [Botões](/resets/buttons)
 - [ ] [Listas](/resets/lists)
-- [ ] [Inputs](/resets/inputs)
+- [x] [Inputs](/resets/inputs)
 - [ ] [Select](/resets/select)
 - [ ] [Textarea](/resets/textarea)
 
