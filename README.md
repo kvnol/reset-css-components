@@ -10,7 +10,7 @@
 - [Componentes](#componentes)
 - [Contribuidores](#contribuidores)
 - [Como contribuir](#como-contribuir)
-- [Licença](#licenca)
+- [Licença](#licença)
 
 ## Sobre o projeto
 O __Reset CSS Components__ nasceu da ideia de organizar num único local os resets (ou helpers) CSS para componentes específicos, como botões, formulários, listas e outros pra fornecer uma melhor experiência para o usuário final e maior produtividade para @s devs.
