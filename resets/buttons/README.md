@@ -20,7 +20,7 @@ O **Reset Button** possui algumas configurações que dão uma melhor usabilidad
 
 ## Arquivos
 
-- [reset.sass](/reset.sass)
+- [reset.sass](./reset.sass)
 
 ## Demonstração no Codepen
 
