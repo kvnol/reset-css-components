@@ -1,0 +1,45 @@
+/* Resetar o primeiro nível da lista, mas o bullets das sublistas*/
+.reset-ul, .reset-ol{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    color: inherit;
+    -webkit-appearance: none;
+    background-color: transparent;
+    font: inherit;
+    vertical-align: baseline;
+    list-style-type: none;
+
+    a{
+        color: inherit;
+        text-decoration: none;
+    }
+
+    li{
+        list-style-type: none;
+    }
+}
+
+/* Resetar todos os níveis da lista*/
+.reset-ul-all, .reset-ol-all{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    color: inherit;
+    -webkit-appearance: none;
+    background-color: transparent;
+    font: inherit;
+    vertical-align: baseline;
+    list-style-type: none;
+
+    a{
+        color: inherit;
+        text-decoration: none;
+    }
+
+    ul{
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+}
